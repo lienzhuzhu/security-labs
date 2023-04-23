@@ -1,0 +1,4 @@
+break /home/seed/523/03-stack/ans_check.c:25
+break /home/seed/523/03-stack/ans_check.c:10
+break /home/seed/523/03-stack/ans_check.c:15
+

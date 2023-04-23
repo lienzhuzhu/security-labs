@@ -1,0 +1,700 @@
+Trying input with length 0
+Command: ./ans_check7  
+******************
+b'Usage: ./ans_check7 <answer>\n'
+******************
+Return value: 0, Success
+
+Trying input with length 1
+Command: ./ans_check7  a
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 2
+Command: ./ans_check7  aa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 3
+Command: ./ans_check7  aaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 4
+Command: ./ans_check7  aaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 5
+Command: ./ans_check7  aaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 6
+Command: ./ans_check7  aaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 7
+Command: ./ans_check7  aaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 8
+Command: ./ans_check7  aaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 9
+Command: ./ans_check7  aaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 10
+Command: ./ans_check7  aaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 11
+Command: ./ans_check7  aaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 12
+Command: ./ans_check7  aaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 13
+Command: ./ans_check7  aaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 14
+Command: ./ans_check7  aaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 15
+Command: ./ans_check7  aaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 16
+Command: ./ans_check7  aaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 17
+Command: ./ans_check7  aaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 18
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 19
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 20
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 21
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 22
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 23
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 24
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 25
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 26
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 27
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 28
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 29
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 30
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 31
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 32
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 33
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 34
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 35
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 36
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 37
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 38
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Wrong answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 39
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Right answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 40
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Right answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 41
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Right answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 42
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Right answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 43
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Right answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 44
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Right answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 45
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Right answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 46
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b'Right answer!\nAbout to exit!\nWed 05 Apr 2023 09:42:32 PM EDT\n'
+******************
+Return value: 0, Success
+
+Trying input with length 47
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 48
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 49
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 50
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 51
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 52
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 53
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 54
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 55
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 56
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 57
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 58
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 59
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 60
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 61
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 62
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 63
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 64
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 65
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 66
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 67
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 68
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 69
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 70
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 71
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 72
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 73
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 74
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 75
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 76
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 77
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 78
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 79
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 80
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 81
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 82
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 83
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 84
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 85
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 86
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 87
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 88
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 89
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 90
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 91
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 92
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 93
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 94
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 95
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 96
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 97
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 98
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+
+Trying input with length 99
+Command: ./ans_check7  aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+******************
+b''
+******************
+Return value: -11, Unknown error -11
+

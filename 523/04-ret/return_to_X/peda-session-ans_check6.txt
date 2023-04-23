@@ -1,0 +1,2 @@
+break /home/seed/523/04-ret/return_to_X/ans_check6.c:12
+
